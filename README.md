@@ -1,5 +1,6 @@
 # Browser Object Model and Regular Expression
 ## Browser Object Model
+Write functions which set and get data from storages
 
 ## Regular Expression
 ### Patterns Examples

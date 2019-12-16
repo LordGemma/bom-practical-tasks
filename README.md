@@ -1,6 +1,8 @@
-# bom-practical-tasks
+# Browser Object Model and Regular Expression
+## Browser Object Model
 
-## Patterns
+## Regular Expression
+### Patterns Examples
 - /abc/	A sequence of characters
 - /[abc]/	Any character from a set of characters
 - /[^abc]/	Any character not in a set of characters
